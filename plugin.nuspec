@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>com.castsoftware.uc.nuggets-finder</id>
+    <version>1.0.2-alpha</version>
+    <title>Nuggets Finder</title>
+    <authors>User Community</authors>
+    <owners>CAST</owners>
+    <licenseUrl>https://extend.castsoftware.com/V2/Licenses/Cast-Licence-Labs-1.0.html</licenseUrl>
+    <projectUrl>https://github.com/CAST-Extend/com.castsoftware.uc.nuggets-finder</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/CAST-Extend/com.castsoftware.uc.nuggets-finder/master/nuggets-finder.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Find Nuggets in CAST Results</description>
+    <releaseNotes>https://github.com/CAST-Extend/com.castsoftware.uc.nuggets-finder/wiki</releaseNotes>
+    <dependencies>
+      <dependency id="CAIP" version="7.3.6" />
+    </dependencies>
+  </metadata>
+</package>
